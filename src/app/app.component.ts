@@ -2,6 +2,7 @@ import { CommonModule } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { RoundProgressComponent } from 'angular-svg-round-progressbar';
+import 'animate.css';
 
 @Component({
   selector: 'app-root',
